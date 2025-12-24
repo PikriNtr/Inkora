@@ -164,10 +164,6 @@ const DEFAULT_TTL = 3600;        // 1 hour
 
 See console logs prefixed with `[App]`, `[Services]`, etc. for debugging.
 
-## License
-
-Educational purposes. Respect manga source terms of service and copyright laws.
-
 ## Acknowledgments
 
 - Inspired by [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) and [Mihon](https://github.com/mihonapp/mihon)
